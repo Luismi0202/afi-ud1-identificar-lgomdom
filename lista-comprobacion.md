@@ -9,7 +9,7 @@
    *ENFSI §8.2*
 
 3. <a id="lista-1-3"></a> **Preguntar qué ha ocurrido y qué podría ser relevante.** Pregunto a quien avisa, a los usuarios y a los testigos qué equipos se usaban, qué vieron y qué cambios se hicieron. No doy por hecho que la primera respuesta sea la única pista.  
-   *RFC 3227 §§3.2, 4.1; NIST SP 800-86 §3.1.1*
+   *RFC 3227 §§3.2, 4.1, NIST SP 800-86 §3.1.1*
 
 4. **Anotar quién está presente y qué observa.** Registro sus nombres, funciones y cualquier actuación o comentario relevante durante la intervención.  
    *RFC 3227 §3.2*
@@ -18,13 +18,13 @@
    *ENFSI §8.2*
 
 6. <a id="lista-1-6"></a> **Hacer un primer inventario de posibles fuentes.** Busco ordenadores, servidores, portátiles, móviles, cámaras, soportes de almacenamiento y otros dispositivos que puedan contener datos relevantes.  
-   *NIST SP 800-86 §3.1.1; ENFSI §9.2*
+   *NIST SP 800-86 §3.1.1, ENFSI §9.2*
 
 7. **Seguir las conexiones.** Miro qué está conectado por cable, red inalámbrica, radiofrecuencia o infrarrojos: periféricos, unidades externas, equipos cercanos y dispositivos que puedan comunicarse entre sí.  
-   *ENFSI §8.2; RFC 3227 §2.1*
+   *ENFSI §8.2, RFC 3227 §2.1*
 
 8. <a id="lista-1-8"></a> **Preguntar si hay fuentes que no están en la habitación.** Compruebo si existen servidores, almacenamiento en red, registros remotos o sistemas de monitorización relacionados con los equipos encontrados.  
-   *NIST SP 800-86 §3.1.1; RFC 3227 §§2.1, 3.2*
+   *NIST SP 800-86 §3.1.1, RFC 3227 §§2.1, 3.2*
 
 ## 2. Antes de tocar nada
 
@@ -35,33 +35,33 @@
    *RFC 3227 §§2, 3.2*
 
 3. <a id="lista-2-3"></a> **Averiguar si hay datos que solo existen mientras el equipo está encendido.** Antes de apagarlo, considero si puede haber información en memoria, sesiones abiertas, cifrado activo o riesgo de borrado o reinicio remoto.  
-   *ENFSI §9.1; RFC 3227 §§2.1, 2.2*
+   *ENFSI §9.1, RFC 3227 §§2.1, 2.2*
 
 4. <a id="lista-2-4"></a> **Decidir con cuidado si se aísla de la red.** No desconecto automáticamente: valoro si alguien podría modificar datos desde fuera y si cortar la conexión podría activar un borrado u otro cambio. Documento la decisión.  
-   *RFC 3227 §2.2; ENFSI §8.2*
+   *RFC 3227 §2.2, ENFSI §8.2*
 
-5. <a id="lista-2-5"></a> **Reducir al mínimo los cambios que puedo causar.** No pruebo funciones ni ejecuto programas sin necesidad; si hay que recoger datos de un sistema activo, uso herramientas preparadas y medios adecuados.  
+5. <a id="lista-2-5"></a> **Reducir al mínimo los cambios que puedo causar.** No pruebo funciones ni ejecuto programas sin necesidad, si hay que recoger datos de un sistema activo, uso herramientas preparadas y medios adecuados.  
    *RFC 3227 §§2, 2.2, 5*
 
 6. <a id="lista-2-6"></a> **Revisar el alcance y la privacidad antes de ampliar la búsqueda.** Si aparece una fuente nueva o datos que no esperaba, compruebo que su recogida esté justificada y autorizada.  
    *RFC 3227 §§2.3, 2.4, 3.2*
 
 7. **Completar la lista de sistemas y datos que se van a recoger.** Para cada fuente, explico qué relación puede tener con el caso y qué evidencia espero obtener. Si tengo dudas, las dejo anotadas para decidirlas con el equipo.  
-   *RFC 3227 §3.2; NIST SP 800-86 §3.1.1*
+   *RFC 3227 §3.2, NIST SP 800-86 §3.1.1*
 
 ## 3. Al decidir qué se adquiere y en qué orden
 
 1. <a id="lista-3-1"></a> **Priorizar con más de un criterio.** Tengo en cuenta la volatilidad, el valor de los datos para la investigación y el tiempo o esfuerzo que llevará obtenerlos.  
-   *RFC 3227 §2.1; NIST SP 800-86 §3.1.2*
+   *RFC 3227 §2.1, NIST SP 800-86 §3.1.2*
 
-2. **Si procede recoger datos en vivo, empezar por los que pueden desaparecer antes.** Por ejemplo, memoria, procesos, conexiones y estado de red; después, otros datos temporales y el almacenamiento persistente. Ajusto el orden al dispositivo y a lo que ya sé de él.  
-   *RFC 3227 §§2.1, 3.2; ENFSI §9.1*
+2. **Si procede recoger datos en vivo, empezar por los que pueden desaparecer antes.** Por ejemplo, memoria, procesos, conexiones y estado de red, después, otros datos temporales y el almacenamiento persistente. Ajusto el orden al dispositivo y a lo que ya sé de él.  
+   *RFC 3227 §§2.1, 3.2, ENFSI §9.1*
 
 3. **No olvidarme de las fuentes menos visibles o menos volátiles.** Incluyo sistemas de archivos temporales, discos, registros remotos, datos de monitorización, configuración física y topología de red, además de soportes de archivo.  
-   *RFC 3227 §2.1; NIST SP 800-86 §§3.1.1, 3.1.2*
+   *RFC 3227 §2.1, NIST SP 800-86 §§3.1.1, 3.1.2*
 
-4. **Seguir un procedimiento ordenado y explicar cualquier cambio de plan.** En un mismo sistema voy paso a paso; si hay varios equipos y personal suficiente, se puede trabajar en paralelo sin perder el control de cada recogida.  
+4. **Seguir un procedimiento ordenado y explicar cualquier cambio de plan.** En un mismo sistema voy paso a paso, si hay varios equipos y personal suficiente, se puede trabajar en paralelo sin perder el control de cada recogida.  
    *RFC 3227 §§2, 3.1, 3.2*
 
 5. <a id="lista-3-5"></a> **Dejar documentado qué se recogió y qué pasó con ello.** Registro método, hora, persona responsable, identificador del elemento y cada cambio de custodia. Cuando corresponda, verifico las copias con sumas de comprobación y conservo los originales protegidos.  
-   *RFC 3227 §§3.1, 3.2, 4.1; ENFSI §9.2*
+   *RFC 3227 §§3.1, 3.2, 4.1, ENFSI §9.2*
