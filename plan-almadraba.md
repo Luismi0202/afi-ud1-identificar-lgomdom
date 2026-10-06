@@ -62,45 +62,45 @@ A tener en cuenta es que para este paso he seguido mi propia lista de comprobaci
 
 #### 1) Servidor de ficheros y NAS
 - Lo prioricé por encima del resto porque las pistas del relato parecen converger en ese punto: las horas extra de Marta, la petición del pendrive y la posible copia del render apuntan a un acceso o una extracción de información desde ese sistema.
-- La lista de actuación indica que se debe valorar el valor de los datos y el tiempo necesario para obtenerlos, no solo la volatilidad. Esto encaja con el punto 3.1 de la lista y con la lógica de RFC 3227 §2.1 y NIST SP 800-86 §3.1.2.
-- También encaja con los puntos 1.6 y 1.8, que hablan de identificar fuentes relevantes y buscar información en sistemas o datos relacionados con la incidencia (NIST SP 800-86 §3.1.1; ENFSI §9.2; RFC 3227 §§2.1, 3.2).
+- La lista de actuación indica que se debe valorar el valor de los datos y el tiempo necesario para obtenerlos, no solo la volatilidad. Esto encaja con el punto [3.1](lista-comprobacion.md#lista-3-1) de la lista y con la lógica de RFC 3227 §2.1 y NIST SP 800-86 §3.1.2.
+- También encaja con los puntos [1.6](lista-comprobacion.md#lista-1-6) y [1.8](lista-comprobacion.md#lista-1-8), que hablan de identificar fuentes relevantes y buscar información en sistemas o datos relacionados con la incidencia (NIST SP 800-86 §3.1.1; ENFSI §9.2; RFC 3227 §§2.1, 3.2).
 
 ####  2) Dell y ordenador de sobremesa
 - Decidí dejar encendido el Dell y el ordenador de sobremesa, y fotografiar este último antes de tocarlo, porque podrían contener información volátil que desaparece al apagarlos: sesiones abiertas, accesos activos o conexiones recientes.
-- Esto se relaciona con la valoración de datos volátiles y con la obligación de describir y fotografiar el estado del equipo antes de cualquier manipulación, según los puntos 2.3 y 2.1 (ENFSI §§9.1, 8.2, 9.2; RFC 3227 §§2.1, 2.2).
-- No obstante, antes de revisar la sesión o abrir correos, comprobaría si está dentro del alcance autorizado. Aquí entran los puntos 1.1 y 2.6 (RFC 3227 §§2.4, 2.3).
+- Esto se relaciona con la valoración de datos volátiles y con la obligación de describir y fotografiar el estado del equipo antes de cualquier manipulación, según los puntos [2.3](lista-comprobacion.md#lista-2-3) y [2.1](lista-comprobacion.md#lista-2-1) (ENFSI §§9.1, 8.2, 9.2; RFC 3227 §§2.1, 2.2).
+- No obstante, antes de revisar la sesión o abrir correos, comprobaría si está dentro del alcance autorizado. Aquí entran los puntos [1.1](lista-comprobacion.md#lista-1-1) y [2.6](lista-comprobacion.md#lista-2-6) (RFC 3227 §§2.4, 2.3).
 
 ####  3) Disco externo de 2 TB
 - Lo considero una fuente posible, pero no la pondría por delante del servidor y el NAS. En principio, no parece tan urgente ni tan directamente conectada con la posible copia del render.
-- La decisión de priorizar por valor y tiempo de adquisición está conectada con el punto 3.1 (RFC 3227 §2.1; NIST SP 800-86 §3.1.2).
-- Mientras no quede claro que puedo revisarlo, mantendría la mínima interacción posible, tal y como indica el punto 2.5 (RFC 3227 §§2, 2.2, 5).
+- La decisión de priorizar por valor y tiempo de adquisición está conectada con el punto [3.1](lista-comprobacion.md#lista-3-1) (RFC 3227 §2.1; NIST SP 800-86 §3.1.2).
+- Mientras no quede claro que puedo revisarlo, mantendría la mínima interacción posible, tal y como indica el punto [2.5](lista-comprobacion.md#lista-2-5) (RFC 3227 §§2, 2.2, 5).
 
 ####  4) iPhone de empresa
 - No revisaría el iPhone si aparece sin confirmar antes el alcance y la autorización.
 - Puede contener información útil, pero también datos personales o privados que no están dentro del objetivo inicial del caso.
-- Por eso, primero comprobaría si está permitido acceder a él y qué tipo de datos serían relevantes. Esto se apoya en los puntos 1.1 y 2.6 (RFC 3227 §§2.4, 2.3, 3.2).
+- Por eso, primero comprobaría si está permitido acceder a él y qué tipo de datos serían relevantes. Esto se apoya en los puntos [1.1](lista-comprobacion.md#lista-1-1) y [2.6](lista-comprobacion.md#lista-2-6) (RFC 3227 §§2.4, 2.3, 3.2).
 - Si estuviera encendido, también aplicaría la valoración de datos volátiles antes de decidir si se apaga o se conserva, como indica el punto 2.3 (ENFSI §9.1; RFC 3227 §§2.1, 2.2).
 
 ####  5) Pendrive solicitado por Marta
 - Pediría el pendrive a Javier y lo conservaría sin manipularlo, porque Marta se lo pidió y eso encaja con la posible copia o traslado de información.
 - No demuestra por sí solo un delito, pero sí es un indicio importante que debe recogerse y documentarse.
-- Este tipo de pista entra dentro de preguntar a personas implicadas y hacer un inventario de fuentes potenciales, según los puntos 1.3 y 1.6 (RFC 3227 §§3.2, 4.1; NIST SP 800-86 §3.1.1; ENFSI §9.2).
-- Si se recoge, lo dejaría bajo cadena de custodia con constancia de quién lo entrega y en qué condición, siguiendo el punto 3.5 (RFC 3227 §§3.1, 3.2, 4.1; ENFSI §9.2).
+- Este tipo de pista entra dentro de preguntar a personas implicadas y hacer un inventario de fuentes potenciales, según los puntos [1.3](lista-comprobacion.md#lista-1-3) y [1.6](lista-comprobacion.md#lista-1-6) (RFC 3227 §§3.2, 4.1; NIST SP 800-86 §3.1.1; ENFSI §9.2).
+- Si se recoge, lo dejaría bajo cadena de custodia con constancia de quién lo entrega y en qué condición, siguiendo el punto [3.5](lista-comprobacion.md#lista-3-5) (RFC 3227 §§3.1, 3.2, 4.1; ENFSI §9.2).
 
 ####  6) Cámara del pasillo
 - La cámara también la tendría en cuenta porque podría demostrar quién entró en la sala del servidor y cuándo.
-- La lista recoge la búsqueda de cámaras y otras fuentes externas en el punto 1.6, y la consulta de fuentes ajenas a la habitación en el punto 1.8 (NIST SP 800-86 §3.1.1; RFC 3227 §§2.1, 3.2).
-- Antes de pedir o analizar las grabaciones, confirmaría que el acceso está autorizado, según el punto 2.6 (RFC 3227 §§2.3, 2.4, 3.2).
+- La lista recoge la búsqueda de cámaras y otras fuentes externas en el punto [1.6](lista-comprobacion.md#lista-1-6), y la consulta de fuentes ajenas a la habitación en el punto [1.8](lista-comprobacion.md#lista-1-8) (NIST SP 800-86 §3.1.1; RFC 3227 §§2.1, 3.2).
+- Antes de pedir o analizar las grabaciones, confirmaría que el acceso está autorizado, según el punto [2.6](lista-comprobacion.md#lista-2-6) (RFC 3227 §§2.3, 2.4, 3.2).
 
 ####  7) Coordinación con Bahía Sistemas
 - Avisaría a Bahía Sistemas antes de intervenir en el servidor o el NAS, porque son los responsables técnicos y pueden ayudar a identificar los registros relevantes sin provocar cambios innecesarios.
-- Esto se relaciona con confirmar quién autoriza la intervención y reducir al mínimo la alteración del sistema, según los puntos 1.1 y 2.5 (RFC 3227 §§2.4, 2, 2.2, 5).
+- Esto se relaciona con confirmar quién autoriza la intervención y reducir al mínimo la alteración del sistema, según los puntos [1.1](lista-comprobacion.md#lista-1-1) y [2.5](lista-comprobacion.md#lista-2-5) (RFC 3227 §§2.4, 2, 2.2, 5).
 
 ####  8) Límite de autorización
 - No daría por hecho que puedo revisar cualquier equipo o dato. Antes de ampliar la investigación, confirmaría qué está permitido y qué datos quedan fuera del alcance.
-- Esto es especialmente importante en los equipos usados por Marta y en cualquier dato personal o privado que pueda contener. Eso encaja con los puntos 1.1 y 2.6 (RFC 3227 §§2.4, 2.3, 3.2).
+- Esto es especialmente importante en los equipos usados por Marta y en cualquier dato personal o privado que pueda contener. Eso encaja con los puntos [1.1](lista-comprobacion.md#lista-1-1) y [2.6](lista-comprobacion.md#lista-2-6) (RFC 3227 §§2.4, 2.3, 3.2).
 
 ####  9) Aislamiento del servidor y del NAS
 - Sobre aislarlos, no lo decidiría automáticamente. Aunque dejaría los equipos encendidos mientras valoro la situación, antes de desconectarlos de la red revisaría si alguien podría seguir modificando datos desde fuera.
-- La lista recomienda valorar el riesgo y documentar la decisión, según el punto 2.4 (RFC 3227 §2.2; ENFSI §8.2).
+- La lista recomienda valorar el riesgo y documentar la decisión, según el punto [2.4](lista-comprobacion.md#lista-2-4) (RFC 3227 §2.2; ENFSI §8.2).
 - Por eso, en vez de decir “aislar sí o sí”, lo dejaría como una decisión pendiente de esa valoración.
