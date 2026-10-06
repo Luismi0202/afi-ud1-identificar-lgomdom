@@ -5,12 +5,19 @@
 De lo que cuenta el relato, yo creo que las cosas más destacables son:
 
 -Dell de empresa
+
 -Disco externo de 2 TB
+
 -El iPhone que es un móvil de empresa
+
 -El ordenador de sobremesa que tiene una sesión al nombre de otra compañera abierta
+
 -El pendrive que le pidió Marta a Javier (está en el cajón de Javier)
+
 -La cámara del techo del pasillo (quizá podría tener una grabación interesante y se podría pedir)
+
 -El servidor de ficheros y el NAS
+
 ### 2. La prioridad
 
 Miraría primero el servidor de ficheros y el NAS ya que no solo me parece el objeto más importante que tienen en esta empresa, sino que también me parece raro cómo todas las pistas llevan a él, quiero decir, Javier ha visto a Marta estando hasta "las tantas" siendo algo "raro en ella" y encima le pidió un pendrive para vete tú a saber qué diciéndole a Javier que su pendrive estaba roto, quizá pudo haber usado este pendrive para conectarlo al server de ficheros y llevarse el render.
