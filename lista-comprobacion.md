@@ -1,4 +1,4 @@
-# Lista de comprobación
+# LISTA DE COMPARACIÓN
 
 ## 1. Al llegar
 
