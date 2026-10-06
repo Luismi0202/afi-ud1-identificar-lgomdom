@@ -51,20 +51,6 @@ El servidor de ficheros también sería buena idea llamar a Bahía sistemas ante
 
 ### 5. De dónde sale cada decisión
 
-Voy a dejarte el punto 5 del documento con mejor formato en Markdown para que quede más claro y visual.
-
-Read 
-
-He localizado el bloque y lo estoy reescribiendo para que esté más claro, ordenado y visualmente limpio en Markdown.
-
-Got last terminal command
-
-Got last terminal command
-
-Got last terminal command
-
-### 5. De dónde sale cada decisión
-
 A tener en cuenta es que para este paso he seguido mi propia lista de comprobación como pedía el ejercicio así que citaré en cada apartado el punto de mi lista junto a los puntos en los que se basa de las otras normativas que he visto en este ejercicio para así poder relacionar todo lo que he aprendido en esta actividad en un mismo sitio.
 
 #### 1) Servidor de ficheros y NAS
