@@ -6,20 +6,20 @@ De lo que cuenta el relato, yo creo que las cosas más destacables son:
 
 -Dell de empresa
 -Disco externo de 2 TB
--El iphone que es un móvil de empresa
+-El iPhone que es un móvil de empresa
 -El ordenador de sobremesa que tiene una sesión al nombre de otra compañera abierta
 -El pendrive que le pidió Marta a Javier (está en el cajón de Javier)
 -La cámara del techo del pasillo (quizá podría tener una grabación interesante y se podría pedir)
 -El servidor de ficheros y el NAS
 ### 2. La prioridad
 
-Miraría primero el servidor de ficheros y el NAS ya que no solo me parece el objeto más importante que tienen en esta empresa, si no que también me parece raro como todas las pistas llevan a él, quiero decir, Javier ha visto a Marta estando hasta "las tantas" siendo algo "raro en ella" y encima le pidió un pendrive para vete tú a saber qué diciéndole a Javier que su pendrive estaba roto, quizá pudo haber usado este pendrive para conectarlo al server de ficheros y llevarse el render. 
+Miraría primero el servidor de ficheros y el NAS ya que no solo me parece el objeto más importante que tienen en esta empresa, sino que también me parece raro cómo todas las pistas llevan a él, quiero decir, Javier ha visto a Marta estando hasta "las tantas" siendo algo "raro en ella" y encima le pidió un pendrive para vete tú a saber qué diciéndole a Javier que su pendrive estaba roto, quizá pudo haber usado este pendrive para conectarlo al server de ficheros y llevarse el render.
 
-Además también es curioso que haya un ordenador de sobremesa con una cuenta de correos abierta de otra compañera ¿quizá es la cuenta de marta? es algo que según el texto se ha visto de reojo y creo que se debería de comprobar a ver si se ha cerrado sesión o no porque justo Marta se está retirando por hoy con mucha prisa. 
+Además también es curioso que haya un ordenador de sobremesa con una cuenta de correos abierta de otra compañera ¿quizá es la cuenta de Marta? Es algo que según el texto se ha visto de reojo y creo que se debería de comprobar a ver si se ha cerrado sesión o no porque justo Marta se está retirando por hoy con mucha prisa.
 
-Luego miraría también su dell de empresa y si fuese posible porque con la torpeza se lo fuese a dejar, su disco duro externo, aunque de estas dos mejor hablamos en el siguiente punto porque aquí habría que saber si la empresa tiene firmado un papel que nos autorice poder meternos en estos equipos.
+Luego miraría también su Dell de empresa y si fuese posible porque con la torpeza se lo fuese a dejar, su disco duro externo, aunque de estas dos mejor hablamos en el siguiente punto porque aquí habría que saber si la empresa tiene firmado un papel que nos autorice poder meternos en estos equipos.
 
-El iphone que es un móvil de empresa también es algo que tendríamos que dejar ahí pero es algo que también nos podría dar una pista lo que pasa es que también se requeriría de un permiso a no ser que esté firmado.
+El iPhone que es un móvil de empresa también es algo que tendríamos que dejar ahí pero es algo que también nos podría dar una pista lo que pasa es que también se requeriría de un permiso a no ser que esté firmado.
 
 La cámara del techo del pasillo también me parece interesante porque quizá podemos ver a Marta entrando a hacer algo en el servidor de ficheros pero como está no urge tanta prisa porque no es algo que se pueda ir pues podemos dejarla para el final.
 
@@ -29,25 +29,25 @@ La cámara del techo del pasillo también me parece interesante porque quizá po
 
 -Disco externo de 2 TB-> Si está presente en el acto realmente tampoco importa demasiado podemos dejarlo ahí al final es no volátil aunque hay alguna información que cambia al apagar el equipo así que por si acaso lo dejo conectado a su respectivo equipo sin tocar nada.
 
--El iphone/móvil de empresa-> Siendo realista, en esta situación Marta seguramente se lo haya llevado pero en caso de que esté en la empresa, pues se deja ahí sin tocar y ya lo reviso
+-El iPhone/móvil de empresa-> Siendo realista, en esta situación Marta seguramente se lo haya llevado pero en caso de que esté en la empresa, pues se deja ahí sin tocar y ya lo reviso
 
--El ordenador de sobremesa que tiene una sesión al nombre de otra compañera abierta-> **DEJARLO ENCENDIDO SÍ O SÍ Y FOTOGRAFIAR, HAY OTRA SESIÓN DE LA CUÁL SEGÚN EL TEXTO NO ME HE PARADO A MIRAR MUCHO ASÍ QUE MEJOR MIRO A VER SI ES MARTA O SI ESTÁ CERRADA YA, PORQUE AL FINAL AL SERVIDOR DE FICHEROS SE ACCEDE DESDE CORREOS**
+-El ordenador de sobremesa que tiene una sesión al nombre de otra compañera abierta-> **DEJARLO ENCENDIDO SÍ O SÍ Y FOTOGRAFIAR, HAY OTRA SESIÓN DE LA CUAL SEGÚN EL TEXTO NO ME HE PARADO A MIRAR MUCHO ASÍ QUE MEJOR MIRO A VER SI ES MARTA O SI ESTÁ CERRADA YA, PORQUE AL FINAL AL SERVIDOR DE FICHEROS SE ACCEDE DESDE CORREOS**
 
--El pendrive que le pidió Marta a Javier (está en el cajón de Javier)-> Pedirselo a Javier de una forma amable y así tendremos una de las pistas que más me huelen a chamusquina en este caso ¿porque querría Marta un pendrive? Huele rarete.
+-El pendrive que le pidió Marta a Javier (está en el cajón de Javier)-> Pedírselo a Javier de una forma amable y así tendremos una de las pistas que más me huelen a chamusquina en este caso ¿por qué querría Marta un pendrive? Huele rarete.
 
--La cámara del techo del pasillo (quizá podría tener una grabación interesante y se podría pedir)-> Pedírle a quién sea que lleve las grabaciones de la cámara si me da permisos para poder revisarlas porque creo que aquí se podría ver una pista de lo que Marta pudo hacer si es que se ve que entrase en la sala del servidor.
+-La cámara del techo del pasillo (quizá podría tener una grabación interesante y se podría pedir)-> Pedirle a quien sea que lleve las grabaciones de la cámara si me da permisos para poder revisarlas porque creo que aquí se podría ver una pista de lo que Marta pudo hacer si es que se ve que entrase en la sala del servidor.
 
 -El servidor de ficheros y el NAS-> **DEJARLO ENCENDIDO MIENTRAS VALORO JUNTO CON BAHÍA SISTEMAS SI CONVIENE AISLARLO DE LA RED, AQUÍ SEGURAMENTE ENCUENTRE LA CHICHA DEL ASUNTO, O ESO ME DICE MI OLFATO DE FORENSE (llevo solo 1 día de clases en esto pero yo confío en él venga va)**
 
 ### 4. Los límites
 
-Como ya dije antes, no podría tocar nada que sea de Marta aunque sean equipos de la empresa a no ser que ellos tengan firmados algún tipo de consentimiento para que yo pueda mirar porque si no realmente sería ilegal a no ser que el jurado me diera el visto bueno y aún así, aunque pueda mirar, estoy un poco restringido a no poder mirar Whatssapps o cosas privadas. Así que el iphone y el dell se quedan un poco en el limbo ahora mismo.
+Como ya dije antes, no podría tocar nada que sea de Marta aunque sean equipos de la empresa a no ser que ellos tengan firmados algún tipo de consentimiento para que yo pueda mirar porque si no realmente sería ilegal a no ser que el jurado me diera el visto bueno y aun así, aunque pueda mirar, estoy un poco restringido a no poder mirar WhatsApp o cosas privadas. Así que el iPhone y el Dell se quedan un poco en el limbo ahora mismo.
 
 El disco duro externo realmente también sería algo privado y a no ser que un jurado me dé el visto bueno no podría revisarlo porque al final eso es algo privado de Marta, incluso se podría preguntar permisos para poder verle su móvil personal a ver si tiene algo pero eso ya sería escalarlo demasiado creo que con lo que tengo se podría llegar a algo.
 
-La cámara del techo del pasillo tampoco es algo que pueda hacer inmediatamente pero al final eso es tan fácil como preguntar si se puede mirar a quién sea que lo lleve.
+La cámara del techo del pasillo tampoco es algo que pueda hacer inmediatamente pero al final eso es tan fácil como preguntar si se puede mirar a quien sea que lo lleve.
 
-El servidor de ficheros también sería buena idea llamar a Bahía sistemas antes de trastear nada porque al final ellos son los técnicos informáticos y no está de más dar un aviso de que tengo que tocar logs para poder ver si han habido movimientos extraños.
+El servidor de ficheros también sería buena idea llamar a Bahía Sistemas antes de trastear nada porque al final ellos son los técnicos informáticos y no está de más dar un aviso de que tengo que tocar logs para poder ver si han habido movimientos extraños.
 
 ### 5. De dónde sale cada decisión
 
