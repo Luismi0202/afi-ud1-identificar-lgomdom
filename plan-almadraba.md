@@ -37,11 +37,11 @@ La cámara del techo del pasillo también me parece interesante porque quizá po
 
 -La cámara del techo del pasillo (quizá podría tener una grabación interesante y se podría pedir)-> Pedírle a quién sea que lleve las grabaciones de la cámara si me da permisos para poder revisarlas porque creo que aquí se podría ver una pista de lo que Marta pudo hacer si es que se ve que entrase en la sala del servidor.
 
--El servidor de ficheros y el NAS-> **DEJARLO ENCENDIDO SÍ O SÍ TAMBIÉN, Y TAMBIÉN AISLARLO A SER POSIBLE,AQUÍ SEGURAMENTE ENCUENTRE LA CHICHA DEL ASUNTO, O ESO ME DICE MI OLFATO DE FORENSE (llevo solo 1 día de clases en esto pero yo confío en él venga va)**
+-El servidor de ficheros y el NAS-> **DEJARLO ENCENDIDO MIENTRAS VALORO JUNTO CON BAHÍA SISTEMAS SI CONVIENE AISLARLO DE LA RED, AQUÍ SEGURAMENTE ENCUENTRE LA CHICHA DEL ASUNTO, O ESO ME DICE MI OLFATO DE FORENSE (llevo solo 1 día de clases en esto pero yo confío en él venga va)**
 
 ### 4. Los límites
 
-Como ya dije antes, no podría tocar nada que sea de Marta aunque sean equipos de la empresa a no ser que ellos tengan firmados algún tipo de consentimiento para que yo pueda mirar porque si no realmente sería ilegal y aún así, aunque pueda mirar, estoy un poco restringido a no poder mirar Whatssapps o cosas privadas. Así que el iphone y el dell se quedan un poco en el limbo ahora mismo.
+Como ya dije antes, no podría tocar nada que sea de Marta aunque sean equipos de la empresa a no ser que ellos tengan firmados algún tipo de consentimiento para que yo pueda mirar porque si no realmente sería ilegal a no ser que el jurado me diera el visto bueno y aún así, aunque pueda mirar, estoy un poco restringido a no poder mirar Whatssapps o cosas privadas. Así que el iphone y el dell se quedan un poco en el limbo ahora mismo.
 
 El disco duro externo realmente también sería algo privado y a no ser que un jurado me dé el visto bueno no podría revisarlo porque al final eso es algo privado de Marta, incluso se podría preguntar permisos para poder verle su móvil personal a ver si tiene algo pero eso ya sería escalarlo demasiado creo que con lo que tengo se podría llegar a algo.
 

@@ -4,6 +4,6 @@
 
 [TAREA 1: COMPARATIVA](./comparativa.md)
 
-[TAREA 2: LISTA COMPROTACIÓN](./lista-comprobacion.md)
+[TAREA 2: LISTA COMPROBACIÓN](./lista-comprobacion.md)
 
 [TAREA 3: PLAN ALMADRABA](./plan-almadraba.md)
